@@ -39,19 +39,16 @@ A Python script that automatically compresses and resizes images while maintaini
 - TIFF (.tiff)
 - WebP (.webp)
 
-Starting image compression...
+## Starting image compression...
+
 Input folder: ./photos
 Backup folder: ./backup
 Reduced folder: ./reduced
 Quality: 85, Max dimensions: 1200x1200
 Found 18 image(s) to process
+
 --------------------------------------------------
-Created backup: vacation_photo.jpg
-Resized vacation_photo.jpg from 4032x3024 to 1200x900
-Compressed vacation_photo.jpg: 2847.3KB → 456.7KB (84.0% reduction)
-Created backup: screenshot.png
-Compressed screenshot.png: 1234.5KB → 234.1KB (81.0% reduction)
---------------------------------------------------
+
 Processing complete!
 Images processed: 18
 Total size reduction: 45.2MB → 8.7MB (80.7% reduction)
